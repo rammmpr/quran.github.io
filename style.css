@@ -1,0 +1,27 @@
+    body{
+    background-color: #E8EDF1;
+    }.nomor{
+    /*background-image: url('https://i.ibb.co/sJDg5CX/Desain-tanpa-judul-1.png');*/
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+    color: #0D89ED;
+    font-weight: bold;
+    }
+    .text{
+    color: #0D89ED;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        color: #000;
+    }
+    h1{
+    text-align: center;
+    color: rgb(0, 217, 255);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    }
+    footer {
+        margin-top: 40px;
+        padding: 40px;
+    }
